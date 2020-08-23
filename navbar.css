@@ -1,0 +1,30 @@
+/*Nav Bar*/
+
+.navbar{
+
+	background-color: #061566;
+}
+
+.navbar-nav li{
+
+	padding-right: 2.5em;
+	color: #000000;
+}
+
+.navbar-nav a{
+
+	letter-spacing: 0.15em;
+}
+
+.nav-link:hover {
+
+	background-color: #000000;
+	color: #E5FF00;
+}
+
+/*Dropdown Menu*/
+
+.dropdown-menu{
+
+	background-color: #ACB7F1;
+}
