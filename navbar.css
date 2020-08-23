@@ -28,3 +28,6 @@
 
 	background-color: #ACB7F1;
 }
+.dropdown-menu:hover .dropdown-menu{
+        display:block;
+}
